@@ -2,3 +2,4 @@ FAREN RESOLUSI
 - Konsisten Untuk Belajar dengan Baik
 - Membuat Platform Untuk Pengelolaan Keuangan
 - Membuat Kelas Baru
+- Mencari Teman Backend Dan Frontend Untuk Kolaborasi
